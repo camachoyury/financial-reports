@@ -14,7 +14,7 @@ Periodo: Q1 2024
 | Concepto | Monto |
 |----------|--------|
 | Cuentas por Pagar | $400,000.00 |
-| Préstamos a Corto Plazo | $600,000.00 |
+| Préstamos a Corto Plazo | $1500,000.00 |
 | Préstamos a Largo Plazo | $1,500,000.00 |
 | Otros Pasivos | $100,000.00 |
 

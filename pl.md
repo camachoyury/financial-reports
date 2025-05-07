@@ -21,4 +21,4 @@ Periodo: Q1 2024
 |----------|--------|
 | Ingresos Totales | $2,100,000.00 |
 | Gastos Totales | $1,550,000.00 |
-| Utilidad Neta | $550,000.00 | 
+| Utilidad Neta | $600,000.00 | 

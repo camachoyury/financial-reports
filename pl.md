@@ -5,7 +5,7 @@ Periodo: Q1 2024
 | Concepto | Monto |
 |----------|--------|
 | Ventas de Productos | $1,500,000.00 |
-| Servicios | $600,000.00 |
+| Servicios | $6000,000.00 |
 | Total Ingresos | $2,100,000.00|
 
 ## Gastos
